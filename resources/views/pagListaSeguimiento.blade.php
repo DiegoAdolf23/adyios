@@ -1,7 +1,7 @@
 @extends('pagPlantilla')
 
 @section('titulo')
-  <h1 class="display-4">Pagina Seguimiento  Tarifa Huillca Julio Cesar</h1>
+  <h1 class="display-4">Pagina Seguimiento  Diego Coila A</h1>
 @endsection
 
 @section('seccion')
